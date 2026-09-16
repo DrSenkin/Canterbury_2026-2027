@@ -1,6 +1,6 @@
 ## NOTICE
-The code contained is outdated.
-DO NOT ENTIRELY COPY TO A NEW SEASON BRANCH(usually main branch).
+The code contained is outdated.  
+DO NOT ENTIRELY COPY TO A NEW SEASON BRANCH(usually main branch).  
 This repository contains the Canterbury FTC SDK & Teamcode for the 2025-2026 competition season.
 
 ## Requirements
